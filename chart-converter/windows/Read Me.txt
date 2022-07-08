@@ -1,1 +1,0 @@
-put your .json files into "json files" then excute the program, the exported files should be in "export"
